@@ -1,0 +1,4 @@
+# Neon_Simple_Gallery
+This is one of my first projects made by using HTML and CSS only
+## Note
+- page is not mobile responsive
